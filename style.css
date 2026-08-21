@@ -631,6 +631,10 @@ main {
         padding: 1rem;
     }
 
+    .slider{
+        height: 60%;
+    }
+
     .work-title {
         width: 60%;
         margin-top: 1rem;
