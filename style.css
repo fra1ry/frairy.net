@@ -626,7 +626,7 @@ main {
     }
 
     .screen{
-    height: 450px;
+    height: 100%;
     }
 
     .work-img-box {
