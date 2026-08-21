@@ -618,12 +618,12 @@ main {
 
 .widget{
 position: absolute;
-left: 120px;
-top: 580px;
+left: 230px;
+top: 900px;
 }
 
 .widget img{
-    height: 80px;
+    height: 200px;
 }
     
   .works-page-grid {
