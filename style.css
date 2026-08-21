@@ -640,6 +640,17 @@ main {
         height: 450px;
     }
 
+    .prev {
+    top: 96%;
+    left: 10em; /* Positions the button 10px from the left edge */
+}
+
+/* Positioning the next button to the right */
+.next {
+    top: 96%;
+    right: 10em; /* Positions the button 10px from the right edge */
+}
+
     .work-title {
         width: 60%;
         margin-top: 1rem;
