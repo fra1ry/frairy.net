@@ -630,9 +630,10 @@ main {
     }
 
     .work-img-box {
-        height: 450px;
+        height: 500px;
         width: 100%;
         padding: 1rem;
+        padding-bottom: 3rem;
     }
 
     .slider{
