@@ -627,17 +627,17 @@ main {
     }
 
     .screen{
-    height: 60%;
+    height: 450px;
     }
 
     .work-img-box {
-        height: 60%;
+        height: 450px;
         width: 100%;
         padding: 1rem;
     }
 
     .slider{
-        height: 60%;
+        height: 450px;
     }
 
     .work-title {
