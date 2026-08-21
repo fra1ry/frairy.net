@@ -68,8 +68,15 @@ const navSlide = () => {
 navSlide();
 
 // Add event listeners for navigation buttons
+if (nextBtn != null)
+{
 nextBtn.addEventListener('click', nextSlide); //error kesobb javitani
+}
+
+if (prevBtn != null)
+{
 prevBtn.addEventListener('click', prevSlide);
+}
 
 if (sliderContainer != null)
 {
