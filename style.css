@@ -308,7 +308,7 @@ a:hover img.default {
 .screen{
     position: relative; /* Allows for absolute positioning of navigation buttons */
     width: 100%; /* Sets the slider width to 100% of the parent container */
-   height: 600px;
+   height: 700px;
     overflow: hidden; /* Hides the overflow content (only one image is visible at a time) */
     background-color:rgb(236, 236, 236);
     padding: 0rem;
@@ -322,7 +322,7 @@ a:hover img.default {
 /* ------ slider -------- */
 /* Flexbox container that holds all the slides */
 .slider {
-    height: 600px; /*responsive*/
+    height: 700px; /*responsive*/
     display: flex; /* Enables flexbox layout to line up slides horizontally */
     transition: transform 0.4s ease-in-out; /* Smooth transition when sliding between images */
 }
